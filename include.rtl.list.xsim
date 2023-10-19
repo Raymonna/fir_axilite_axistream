@@ -1,0 +1,3 @@
+# design sources
+./src/fir.v
+./bram/bram11.v
