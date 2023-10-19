@@ -565,3 +565,4 @@ selectButton(PAResourceCommand.PACommandNames_TOGGLE_VIEW_NAV, (String) null); /
 selectTree(PAResourceItoN.NavigableTimingReportTab_TIMING_REPORT_NAVIGATION_TREE, "[Root, Timer Settings]", 1, false); // a
 // Elapsed time: 82 seconds
 selectTable(PAResourceOtoP.ProjectSummaryUtilizationPanel_PROJECT_SUMMARY_UTILIZATION_TABLE, "LUT ; 360 ; 53200 ; 0.6766917", 0, "360", 1); // o
+// HMemoryUtils.trashcanNow. Engine heap size: 3,074 MB. GUI used memory: 150 MB. Current time: 10/19/23, 9:09:04 PM CST
